@@ -76,12 +76,12 @@ xnor(y7,a,b);
 endmodule
 ```
 ## Logic symbol & Truthtable:
-![ok](![image](https://user-images.githubusercontent.com/130548870/231443512-f1cf16b4-d6a1-48d0-b938-9fcc3660d70a.png))
+![image](https://user-images.githubusercontent.com/130548870/231443512-f1cf16b4-d6a1-48d0-b938-9fcc3660d70a.png)
 
 ## Output:
 ## RTL realization:
-![model](![image](https://user-images.githubusercontent.com/130548870/231443707-d57f925a-1cdc-418c-83b5-82f0ad32581c.png))
+![image](https://user-images.githubusercontent.com/130548870/231443707-d57f925a-1cdc-418c-83b5-82f0ad32581c.png)
 ## Timing Diagram:
-![it](![image](https://user-images.githubusercontent.com/130548870/231443780-727b68ad-dabc-4002-bd84-5b5d8ec06dad.png))
+![image](https://user-images.githubusercontent.com/130548870/231443780-727b68ad-dabc-4002-bd84-5b5d8ec06dad.png)
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
